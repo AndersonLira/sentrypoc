@@ -36,9 +36,9 @@
       <artifactId>quarkus-arc</artifactId>
     </dependency>
     <dependency>
-        <groupId>io.quarkiverse.loggingsentry</groupId>
-        <artifactId>quarkus-logging-sentry</artifactId>
-        <version>1.0.1</version>
+      <groupId>io.sentry</groupId>
+      <artifactId>sentry</artifactId>
+      <version>1.7.23</version>
     </dependency>
     <dependency>
       <groupId>io.quarkus</groupId>
