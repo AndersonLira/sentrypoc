@@ -36,10 +36,11 @@
       <artifactId>quarkus-arc</artifactId>
     </dependency>
     <dependency>
-      <groupId>io.sentry</groupId>
-      <artifactId>sentry</artifactId>
-      <version>1.7.23</version>
+      <groupId>com.andersonlira</groupId>
+      <artifactId>sentry9-extension</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
     </dependency>
+
     <dependency>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-junit5</artifactId>
